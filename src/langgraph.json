@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "ysx_agent": "./src/agents/pre_build_react_agent.py:ysx_react_agent"
+  },
+  "env": ".env"
+}

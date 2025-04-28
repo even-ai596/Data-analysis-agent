@@ -1,0 +1,17 @@
+
+pydantic~=2.10.4
+sanic==23.12.1
+openai~=1.58.1
+
+langgraph~=0.2.60
+langchain-core~=0.3.27
+langchain-openai~=0.2.12
+python-dotenv~=1.0.1
+typing_extensions~=4.12.2
+langchain-community~=0.3.12
+yaml~=0.2.5
+sanic-ext~=23.12.0
+langchain~=0.3.13
+pytest~=8.2.2
+requests~=2.32.3
+tqdm~=4.66.4
